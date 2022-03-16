@@ -1,5 +1,4 @@
-# Getting Started with Create React App
+# React Weather App 
 
-> git branch -M main
+Weather app using React Hooks, asynchronous functions and array methods
 
-![Weather meme gif](https://media.giphy.com/media/2vqaiPr1TrevmxCPUV/giphy.gif)
